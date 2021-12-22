@@ -36,3 +36,10 @@ I want to become javascript developer.
 * English - A1 (A2 in progress)
 * Belarusian - native
 ---
+## Code Examples:
+---
+    function getMiddle(s) { 
+        if (s.length % 2 == 0) {return s.substrings((s.length/2)-1, s.length/2 );
+        } else {
+        return s.substrings(s.length/2,s.length/2);
+    }
