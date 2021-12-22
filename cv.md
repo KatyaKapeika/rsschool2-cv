@@ -12,6 +12,7 @@
 ## About Me
 ---
 Development of a structural scheme of structures, collection of loads, calculation of structural elements, construction of reinforced concrete monolithic and metal structures of residential and public buildings. Development of project documentation.
+I want to become javascript developer.
 ### Skills and Proficiency:
 * Revit
 * LIRA Sapr
@@ -35,4 +36,3 @@ Development of a structural scheme of structures, collection of loads, calculati
 * English - A1 (A2 in progress)
 * Belarusian - native
 ---
-
